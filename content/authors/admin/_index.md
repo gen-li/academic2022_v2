@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:gen.li@sauder.ubc.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GenLiYale
