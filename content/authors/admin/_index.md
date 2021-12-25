@@ -28,8 +28,8 @@ education:
   courses:
     - course: Ph.D. in Finance
       institution: The University of British Columbia (UBC)
-    - course: Master's
-      institution: University of California,San Diego (UCSD)
+    - course: "MSc. in Finance "
+      institution: University of California, San Diego (UCSD)
 email: gen.li@sauder.ubc.ca
 superuser: true
 highlight_name: true
