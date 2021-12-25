@@ -9,5 +9,5 @@ title: ""
 subtitle: Biography
 design:
   background:
-    color: rgba(128, 150, 248, 0.21)
+    color: rgba(255, 255, 255, 0)
 ---
