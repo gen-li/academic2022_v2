@@ -7,7 +7,7 @@
 
 theme: Classic
 day_night: true
-font: OpenSans
+font: my_font_set
 font_size: m
 
 # SEO
